@@ -1,16 +1,41 @@
-## Hi there 👋
+<h1 align="center">João Gabriel Pincinato 👨‍💻</h1>
 
-<!--
-**Pincinato07/Pincinato07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  🚀 Estudante de Desenvolvimento de Sistemas no SENAI • Comercial na Magic Mídia
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 Sobre mim
+
+- 🎓 Último semestre do curso Técnico em Desenvolvimento de Sistemas
+- 📍 Jundiaí/SP, Brasil
+- 📈 Gerente Comercial com foco em vendas high ticket e automações
+- 🔭 Atualmente estudando **Back-end, Git/GitHub, e automações com IA**
+
+---
+
+### 🧠 Skills
+
+- 💻 **Linguagens:** JavaScript • Python  • Django  • Flask • HTML • CSS • Flutter
+- 🛠️ **Ferramentas:** Git • VSCode • Figma
+- 📊 **Outros:** Noções de SQL, APIs REST, Scrum
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pincinato07&show_icons=true&theme=dracula" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pincinato07&layout=compact&theme=dracula" height="150"/>
+</p>
+
+---
+
+### 🔗 Contato
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-pincinato-a111662b9/)
+- 📸 [Instagram](https://www.instagram.com/joao.pincinato)
+- 📧 jgpincinato@email.com
+
+---
