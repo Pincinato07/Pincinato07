@@ -17,7 +17,7 @@
 
 ### 🧠 Skills
 
-- 💻 **Linguagens:** JavaScript • Python  • Django  • Flask • HTML • CSS • Flutter
+- 💻 **Linguagens:** JavaScript • Python  • Django  • Flask • HTML • CSS • Flutter • Java
 - 🛠️ **Ferramentas:** Git • VSCode • Figma
 - 📊 **Outros:** Noções de SQL, APIs REST, Scrum
 
