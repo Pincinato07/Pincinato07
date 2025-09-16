@@ -1,4 +1,4 @@
-<h1 align="center">João Gabriel Pincinato 👨‍💻</h1>
+<h1 align="center">João Gabriel Pincinato</h1>
 
 <p align="center">
   <strong>Desenvolvedor & Sales Development | Construindo automações em Python para escalar prospecção B2B.</strong>
