@@ -1,68 +1,33 @@
-<h1 align="center">João Gabriel Pincinato</h1>
+# João Gabriel Pincinato | **Tech Closer & Automation Architect**
 
-<p align="center">
-  <strong>Desenvolvedor & Sales Development | Construindo automações em Python para escalar prospecção B2B.</strong>
-</p>
+Desenvolvedor Full Stack e Estrategista de Vendas B2B focado em **escalabilidade de receita** através de **automação em Python** e **inteligência de Cibersegurança**.
 
----
-
-### Sobre mim
-
-Desenvolvedor Full Stack na **Solaris Tech** e estudante de Desenvolvimento de Sistemas no SENAI.
-
-Minha paixão é unir o mundo dos negócios com a tecnologia. Tenho experiência comprovada como **SDR e Closer**, e atualmente aplico meu conhecimento técnico para resolver problemas de negócio, como no desenvolvimento de um script em Python que **automatizou e otimizou o envio de mais de 500 e-mails de prospecção por dia.**
-
-Estou sempre buscando formas de usar código para criar soluções eficientes e escaláveis.
-
--  Atualmente aprofundando meus conhecimentos em **Arquitetura de Software, IA para automações e Cybersecurity.**
-- 🇮🇹 Cidadão Italiano, pronto para oportunidades globais.
+> 🇮🇹 Cidadão Italiano, pronto para alavancar a expansão global (BR/PT).
 
 ---
 
-###  Habilidades
+## 🚀 Missão B10SEC: Escalar Vendas com Código
 
--  **Vendas & Prospecção:**
-  - `Cold E-mail` `Follow-up` `Qualificação de Leads (BANT/SPIN)` `Negociação` `Vendas Consultivas`
+Minha paixão é traduzir requisitos de negócio em soluções técnicas eficientes, alinhando processos comerciais (SDR/Closer) com automação.
 
--  **Tecnologias & Ferramentas:**
-  - **Linguagens:** `Python` `JavaScript` `SQL` `Dart` `HTML` `CSS`
-  - **Frameworks:** `Django` `Flask` `Flutter`
-  - **Ferramentas:** `Git` `GitHub` `Docker` `VSCode` `Figma` `APIs REST`
+* **Foco de Resultado:** Otimização e escala de prospecção B2B.
+* **Conquista Mensurável:** Desenvolvi um **Script em Python** que **automatizou e otimizou o envio de mais de 500 e-mails de prospecção por dia**, reduzindo o *Time-to-Contact* e aumentando o *Pipeline* gerado.
+* **Visão Estratégica:** Aprofundamento em **Arquitetura de Software**, **IA para Automações** e **Cybersecurity**, preparando-me para projetos de alto valor como **IO Leak DM** e **Selo E-commerce Defence**.
 
 ---
 
-### Projetos em Destaque
+## 🛠️ Habilidades Estratégicas & Tecnologias
 
-<table align="center">
-  <tr align="center">
-    <td>
-      <a href="https://github.com/Pincinato07/Automacoes_email">
-        <img src="https://via.placeholder.com/250x150.png?text=Nome+do+Projeto+1" alt="Nome do Projeto 1"/>
-      </a>
-      <br>
-      <strong><a href="https://github.com/Pincinato07/Automacoes_email">Script de Automação de E-mails</a></strong>
-      <br>
-      <p>Script em Python para automação de prospecção B2B.</p>
-      <sub><strong>Tecnologias:</strong> Python, Outlook API</sub>
-    </td>
-    <td>
-      <a href="https://github.com/Pincinato07/GeoLock">
-        <img src="https://via.placeholder.com/250x150.png?text=Nome+do+Projeto+2" alt="Nome do Projeto 2"/>
-      </a>
-      <br>
-      <strong><a href="https://github.com/Pincinato07/GeoLock">GeoLock App</a></strong>
-      <br>
-      <p>App Android para segurança de perímetros via GPS.</p>
-      <sub><strong>Tecnologias:</strong> Java/Kotlin, Google Maps API</sub>
-    </td>
-  </tr>
-</table>
+A união do *Tooling* técnico com as metodologias de *Closing* B2B.
 
----
+### 🎯 Vendas & Estratégia Comercial
+* **Fechamento:** SDR, **Closer**, Vendas Consultivas, Negociação.
+* **Qualificação:** Metodologias **BANT/SPIN** aplicadas a ciclos de tecnologia.
+* **Comunicação:** *Cold E-mail* e *Follow-up* otimizados para *cadências de prospecção*.
 
-###  Contato
+### 💻 Desenvolvimento & Automação
+* **Linguagens Principais:** **Python** (Foco em Automação de Negócios), JavaScript, SQL.
+* **Ferramentas de Infra/DevOps:** Git, GitHub, **Docker**.
+* **APIs & Backend:** APIs REST (Experiência com Outlook API), Django, Flask.
+* **Frontend/Mobile:** Flutter, Dart, HTML, CSS.
 
--  [LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-pincinato-a111662b9/)
--  jgpincinato@gmail.com
-
----
