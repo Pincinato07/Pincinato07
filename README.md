@@ -1,33 +1,59 @@
-# João Gabriel Pincinato | **Tech Closer & Automation Architect**
+# João Gabriel Pincinato  
+### B2B High-Ticket Closer
 
-Desenvolvedor Full Stack e Estrategista de Vendas B2B focado em **escalabilidade de receita** através de **automação em Python** e **inteligência de Cibersegurança**.
+Atuo em vendas B2B com foco em **fechamento de alto valor e estruturação de processos comerciais**.
 
-> 🇮🇹 Cidadão Italiano, pronto para alavancar a expansão global (BR/PT).
-
----
-
-## 🚀 Missão B10SEC: Escalar Vendas com Código
-
-Minha paixão é traduzir requisitos de negócio em soluções técnicas eficientes, alinhando processos comerciais (SDR/Closer) com automação.
-
-* **Foco de Resultado:** Otimização e escala de prospecção B2B.
-* **Conquista Mensurável:** Desenvolvi um **Script em Python** que **automatizou e otimizou o envio de mais de 500 e-mails de prospecção por dia**, reduzindo o *Time-to-Contact* e aumentando o *Pipeline* gerado.
-* **Visão Estratégica:** Aprofundamento em **Arquitetura de Software**, **IA para Automações** e **Cybersecurity**, preparando-me para projetos de alto valor como **IO Leak DM** e **Selo E-commerce Defence**.
+Tenho experiência em conduzir negociações complexas, organizar funis de vendas e transformar leads qualificados em receita.
 
 ---
 
-## 🛠️ Habilidades Estratégicas & Tecnologias
+## O que eu faço
 
-A união do *Tooling* técnico com as metodologias de *Closing* B2B.
+- Fechamento de vendas B2B high-ticket  
+- Gestão de relacionamento com leads estratégicos  
+- Estruturação de funis, scripts e playbooks comerciais  
 
-### 🎯 Vendas & Estratégia Comercial
-* **Fechamento:** SDR, **Closer**, Vendas Consultivas, Negociação.
-* **Qualificação:** Metodologias **BANT/SPIN** aplicadas a ciclos de tecnologia.
-* **Comunicação:** *Cold E-mail* e *Follow-up* otimizados para *cadências de prospecção*.
+---
 
-### 💻 Desenvolvimento & Automação
-* **Linguagens Principais:** **Python** (Foco em Automação de Negócios), JavaScript, SQL.
-* **Ferramentas de Infra/DevOps:** Git, GitHub, **Docker**.
-* **APIs & Backend:** APIs REST (Experiência com Outlook API), Django, Flask.
-* **Frontend/Mobile:** Flutter, Dart, HTML, CSS.
+## Experiência prática
 
+- Participação direta em negociação de **+R$100.000**  
+- Responsável por:
+  - geração e gestão do lead  
+  - construção da proposta  
+  - condução do relacionamento até o fechamento  
+
+- Venda de ofertas de **R$3.000+ sem call**, via WhatsApp, com processo replicável  
+
+---
+
+## Diferenciais
+
+- Capacidade de unir **visão comercial e técnica**  
+- Estruturação de processos que facilitam o fechamento  
+- Abordagem prática, focada em resultado e conversão  
+
+---
+
+## Experiência
+
+### BDR / Gestor de parcerias estratégicas — B10Sec (Cybersecurity)
+
+Atuação em vendas consultivas de soluções de cibersegurança para empresas.
+
+- Prospecção e qualificação de leads B2B  
+- Condução de negociações e relacionamento com decisores  
+- Participação em vendas de alto valor (+R$100k)  
+- Estruturação de processos comerciais (playbook, scripts e funil)  
+
+## Stack (apoio à operação)
+
+- Automação e ferramentas digitais aplicadas a vendas  
+- No-code / Low-code  
+- Conhecimento em desenvolvimento (Python, JS, APIs) para otimização de processos  
+
+---
+
+## Objetivo
+
+Atuar diretamente no fechamento de vendas e geração de receita em operações B2B, com foco em crescimento escalável.
